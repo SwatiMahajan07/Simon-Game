@@ -1,0 +1,56 @@
+body {
+  text-align: center;
+  background-color: #AC66CC;
+  font-family: 'Press Start 2P', cursive;
+}
+
+.lost {
+  background-color: red;
+}
+
+h1 {
+  font-size: 4rem;
+}
+
+.container {
+  margin-top: 60px;
+}
+
+button {
+  margin: 30px;
+  height: 150px;
+  width: 150px;
+  border-radius: 30%;
+  border: solid black;
+  box-shadow: 0 0 10px black;
+}
+
+.red {
+  background-color: #FF6B6B;
+}
+
+.yellow {
+  background-color: #FFD93D;
+}
+
+.green {
+  background-color: #6BCB77;
+}
+
+.blue {
+  background-color: #4D96FF;
+}
+
+p {
+  font-size: 0.7rem;
+  margin: 40px auto 0;
+}
+
+.flashIn {
+  opacity: 0.3;
+}
+
+.animation {
+  box-shadow: 0 0 10px lightgray;
+  background-color: lightgray;
+}
